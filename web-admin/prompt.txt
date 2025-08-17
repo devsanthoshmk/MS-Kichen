@@ -1,0 +1,20 @@
+im making a admin page for my food ordering WhatsApp bot I just made the WhatsApp bot and I need an end point to store data(add to db) 
+the datas I have:
+  name, phone number, order items like ["tiffen":idly,"tiffen":chapathi,"side-dish":gravy...](you an change this for convenience), address
+then I need this admin page 
+1. 
+	yes it should handle CRUD oprations if needed I need to show the users and user's order as a cards which should update real time without refreshing
+	yes everything that is used in food ordering website
+2.
+	AI should design it
+	I need two table you can add more if you want one for orders and other for menu items
+3.	yes but just a username and pin(admin and 12345)
+
+4. whatevery you want you can use if that is free
+
+5. 
+	yes
+	use unique style throughout the website
+6. 
+	yes using vue routers
+	use express to create backend and sqllite for db

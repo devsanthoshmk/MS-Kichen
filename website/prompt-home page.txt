@@ -1,0 +1,46 @@
+questions:
+
+Layout & Features
+
+Branding & Style
+Do you have a name or a logo for your website? This will influence the color scheme and overall branding.
+
+What's the overall vibe you're going for? (e.g., modern and minimalist, fun and vibrant, upscale and elegant, cozy and local).
+
+Are there any specific colors or fonts you'd like to use?
+
+Layout & Features
+What's the most important thing you want users to see first? (e.g., a big search bar to find restaurants, a list of popular cuisines, current promotions).
+
+What sections should be on the homepage? Here are some common ideas:
+
+A hero section with a catchy headline and a call-to-action (like "Find Food Near You").
+
+A list of featured or popular restaurants.
+
+Categories of food (e.g., Pizza, Sushi, Burgers).
+
+A section for special offers or deals.
+
+A "How it Works" section (e.g., 1. Search, 2. Order, 3. Enjoy).
+
+Testimonials or user reviews.
+
+Functionality
+Should the site automatically try to detect the user's location, or should they always enter it manually?
+
+Will there be a user login/signup button visible on the homepage?
+
+
+Answers:
+Branding & Style
+1. name - MS Kitchen photo- attached above as first image
+2. modern minimalistic upscalabe
+3. penn red - 9F0E09, alabaster - EFEFE7, eerie blck - 1C1C1E (refer the second image banner)
+Layout & Features
+4. this is a online food order service for a single restaurant. so first i want users to see a search bar and offers below products
+5. their profile on right and location on left below a search bar and offers section and categories and products section
+Functionality
+6. yes it should try to ditect their location but that should happen at the checkout page or when user taps detect location at the location section mentioned in 5th point 
+7. yes a single icon on mobile and usual on bigger screens refer 5th point the user is automatically logged/signed in at checkout no asking for it until..
+you can also ask other question you have to give me better results
